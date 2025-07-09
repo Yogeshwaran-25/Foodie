@@ -22,10 +22,6 @@ foodie-app/
 ├── style.css # Custom styles
 └── script.js # JavaScript logic
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🚀 Getting Started
