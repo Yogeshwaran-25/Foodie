@@ -23,9 +23,9 @@ foodie-app/
 └── script.js # JavaScript logic
 
 ---
-![Screenshot (193)](https://github.com/user-attachments/assets/7ebaef67-50b8-47a7-b4a5-79032312fc58)
-![Screenshot (194)](https://github.com/user-attachments/assets/906ef39e-80e6-4196-bd0e-1131185b704d)
 
+![Screenshot (194)](https://github.com/user-attachments/assets/906ef39e-80e6-4196-bd0e-1131185b704d)
+                                      ![Screenshot (193)](https://github.com/user-attachments/assets/7ebaef67-50b8-47a7-b4a5-79032312fc58)
 ## 🚀 Getting Started
 
 1. **Clone this repository**:
